@@ -1,0 +1,48 @@
+h1{
+	color: red;
+	background-color: green;
+	width: 220px;
+	text-align: center;
+}
+h1.mercu{
+	color: blue;
+	background-color:  green;
+
+}
+h1#green{
+	color: green;
+	background-color: lightblue;
+
+}
+button{
+	background-color: #30FF1C;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: #7FFF70;
+}
+
+/*table{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td, tr{
+	border: 2px	solid black;
+	text-align: left;
+	padding: 8px; 
+}
+
+tr:nth-child(even){
+	background-color: #7FFF70;
+}*/
+
